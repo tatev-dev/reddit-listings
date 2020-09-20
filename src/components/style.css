@@ -1,0 +1,53 @@
+.listings-main{
+   padding: 100px;
+
+}
+.listing-img{
+    width: 30%;
+    margin-right: 50px;
+}
+
+.listings-list{
+    list-style: none;
+    padding-left: 0px;
+}
+.listings-input{
+    display: flex;
+    margin-bottom: 30px;
+}
+.fa-search{
+    margin-left: 15px;
+}
+
+.listing-info{
+    width: 70%;
+}
+.listing-score{
+    font-size: 30px;
+}
+.listing-text{
+    text-align: left;
+}
+
+span i{
+    margin-right: 10px;
+}
+
+.card-replies{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.single-listing{
+    text-align: left;
+
+}
+.single-listing >.btn{
+    margin-bottom: 30px;
+
+}
+.card{
+    margin-bottom: 20px;
+
+}
+
+
